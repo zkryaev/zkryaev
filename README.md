@@ -5,9 +5,9 @@
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150"/>
 </div>
-margin-top: 100px;
+
 ## :hammer_and_wrench: Languages and Tools :
-<div>
+<div style="margin-top: 20px;">
   <img src="https://github.com/zkryaev/zkryaev/assets/101010457/e1a0a3dd-2131-43ca-9571-8b225898474f" height="40"/>&nbsp;
   <img src="https://github.com/zkryaev/zkryaev/assets/101010457/6ad269a6-d43a-42b9-937d-a6c7a6792f75" height="40"/>&nbsp;
   <img src="https://github.com/zkryaev/zkryaev/assets/101010457/2f2b097f-f9a4-4d91-a9b5-505a0c22e686" height="40"/>&nbsp;
