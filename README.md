@@ -9,7 +9,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/8d76d07a-baee-4438-9e85-5197954a3806" height="80"/>
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/8d76d07a-baee-4438-9e85-5197954a3806" height="60"/>
   <img src="https://github.com/zkryaev/zkryaev/assets/101010457/2f2b097f-f9a4-4d91-a9b5-505a0c22e686" height="80"/>
 </div>
 
