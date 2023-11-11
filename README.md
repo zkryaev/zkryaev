@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1> <strong>Hey there</strong> <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h2>
 </div>
 
 # Skills
