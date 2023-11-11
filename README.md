@@ -8,11 +8,11 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/e1a0a3dd-2131-43ca-9571-8b225898474f" height="50"/>&nbsp;
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/6ad269a6-d43a-42b9-937d-a6c7a6792f75" height="50"/>&nbsp;
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/2f2b097f-f9a4-4d91-a9b5-505a0c22e686" height="50"/>&nbsp;
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/8d76d07a-baee-4438-9e85-5197954a3806" height="50"/>&nbsp;
-  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/da6120bd-eb71-44fc-91d8-e27fe432c89c" height="50"/>&nbsp;
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/e1a0a3dd-2131-43ca-9571-8b225898474f" height="40"/>&nbsp;
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/6ad269a6-d43a-42b9-937d-a6c7a6792f75" height="40"/>&nbsp;
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/2f2b097f-f9a4-4d91-a9b5-505a0c22e686" height="40"/>&nbsp;
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/8d76d07a-baee-4438-9e85-5197954a3806" height="40"/>&nbsp;
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/da6120bd-eb71-44fc-91d8-e27fe432c89c" height="40"/>&nbsp;
 </div>
 
 ## :mortar_board: Learning :
