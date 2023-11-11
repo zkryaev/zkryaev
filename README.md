@@ -15,6 +15,7 @@
   <img src="https://github.com/zkryaev/zkryaev/assets/101010457/da6120bd-eb71-44fc-91d8-e27fe432c89c" height="40"/>&nbsp;
 </div>
 
+  
 ## :mortar_board: Learning :
 <div id="header" align="center">
   <center>
