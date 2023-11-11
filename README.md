@@ -20,6 +20,8 @@
 <br>
   
 ## :mortar_board: Learning :
+<br>
+
 <div id="header" align="center">
   <center>
   <table>
