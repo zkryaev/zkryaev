@@ -8,7 +8,8 @@
 
 # Skills
 
-<center>
+<div id="header" align="center">
+  <center>
   <table>
     <tr>
       <td align="center">Course</td>
@@ -26,3 +27,4 @@
     </tr>
   </table>
 </center>
+</div>
