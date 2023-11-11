@@ -1,8 +1,11 @@
-# Hi there 👋!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="150"/>
 </div>
 
+<center id="badges">
+  <a href="https://t.me/zkryaev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</center>
 
 # Skills
 
