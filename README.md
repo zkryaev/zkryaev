@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-   <title>Hey there</title>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </div>
 
 # Skills
