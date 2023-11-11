@@ -10,7 +10,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" height="100"/>&nbsp;
+  <img src="![image](https://github.com/zkryaev/zkryaev/assets/101010457/2f2b097f-f9a4-4d91-a9b5-505a0c22e686) height="100"/>&nbsp;
 </div>
 
 <div id="header" align="center">
