@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="50"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150"/>
 </div>
 
 # Skills
