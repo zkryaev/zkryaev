@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="150"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://github.com/zkryaev/zkryaev/assets/101010457/069ded67-c6fd-44c2-b8b7-0d89148eceb4" width="50"/>
+</div>
+
+# Social
 <center id="badges">
   <a href="https://t.me/zkryaev">
     <img src="https://github.com/zkryaev/zkryaev/assets/101010457/069ded67-c6fd-44c2-b8b7-0d89148eceb4" width="50" alt="Telegram Badge"/>
