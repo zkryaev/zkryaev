@@ -4,7 +4,7 @@
 
 <center id="badges">
   <a href="https://t.me/zkryaev">
-    <img src="https://github.com/zkryaev/zkryaev/assets/101010457/069ded67-c6fd-44c2-b8b7-0d89148eceb4" width="150" alt="Telegram Badge"/>
+    <img src="https://github.com/zkryaev/zkryaev/assets/101010457/069ded67-c6fd-44c2-b8b7-0d89148eceb4" width="50" alt="Telegram Badge"/>
 </center>
 
 
