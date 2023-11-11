@@ -1,3 +1,11 @@
+# Hi there 👋!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="100"/>
+</div>
+
+
+# Skills
+
 <center>
   <table>
     <tr>
