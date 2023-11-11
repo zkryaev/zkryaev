@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <strong>Hey there </strong>strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <strong>!</strong>
+  <strong>Hey there</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <strong>!</strong>
 </div>
 
 # Skills
