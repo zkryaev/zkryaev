@@ -9,7 +9,7 @@
 ## :hammer_and_wrench: Languages and Tools :
 <style>
   #languages-and-tools {
-    margin-top: 20px; /* Измените это значение на нужный вам отступ */
+    margin-top: 20px;
   }
 </style>
 
