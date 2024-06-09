@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/zkryaev)
+[![codewars](https://www.codewars.com/users/zkryaev/badges/large)](https://www.codewars.com/users/zkryaev)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="200"/>
