@@ -1,5 +1,5 @@
 <p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
+    <a href="(https://www.codewars.com/users/zkryaev)">
       <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient&hide_clan=true&top_languages=true" />
     </a>
 </p>
