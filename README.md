@@ -1,8 +1,9 @@
-<p align="left" >
+<p align="left">
     <a href="https://www.codewars.com/users/zkryaev">
-      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient&hide_clan=true" />
+      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient&hide_clan=true" style="width: 300px; height: auto;" />
     </a>
 </p>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="200"/>
