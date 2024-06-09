@@ -1,4 +1,8 @@
-![Codewars](https://github.r2v.ch/codewars?user=zkryaev)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=zkryaev" />
+    </a>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="200"/>
