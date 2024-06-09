@@ -3,7 +3,11 @@
       <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 450px; height: auto;" />
     </a>
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto)
+<p align="right">
+    <a href="https://leetcode.com/u/zkryaev/">
+      <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto" style="width: 450px; height: auto;" />
+    </a>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="200"/>
