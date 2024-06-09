@@ -1,6 +1,6 @@
 <p align="left">
     <a href="https://www.codewars.com/users/zkryaev">
-      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient&hide_clan=true" style="width: 400px; height: auto;" />
+      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 450px; height: auto;" />
     </a>
 </p>
 
