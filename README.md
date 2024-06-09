@@ -1,4 +1,4 @@
-<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center;">
+<div style="display: grid; align-items: center;">
     <a href="https://www.codewars.com/users/zkryaev">
       <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 300px; height: 300px; object-fit: contain;" />
     </a>
