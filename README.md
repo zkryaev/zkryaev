@@ -1,15 +1,17 @@
-<div style="text-align: center;">
-    <div style="display: inline-block; width: 200px; height: 200px; vertical-align: top;">
-        <a href="https://www.codewars.com/users/zkryaev">
-            <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 25%; height: 25%; object-fit: contain;" />
-        </a>
-    </div>
-    <div style="display: inline-block; width: 200px; height: 200px; vertical-align: top;">
-        <a href="https://leetcode.com/u/zkryaev/">
-            <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto" style="width: 25%; height: 25%; object-fit: contain;" />
-        </a>
-    </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+    <tr>
+        <td style="text-align: left; width: 50%;">
+            <a href="https://www.codewars.com/users/zkryaev">
+                <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 200px; height: 200px; object-fit: contain;" />
+            </a>
+        </td>
+        <td style="text-align: right; width: 50%;">
+            <a href="https://leetcode.com/u/zkryaev/">
+                <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto" style="width: 200px; height: 200px; object-fit: contain;" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 
 
