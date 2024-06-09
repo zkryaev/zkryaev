@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://www.codewars.com/users/zkryaev">
-      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 450px; height: auto;" />
+      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" />
     </a>
     <a href="https://leetcode.com/u/zkryaev/">
-      <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&show_rank" style="width: 450px; height: auto;" />
+      <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&show_rank" />
     </a>
 </div>
 
