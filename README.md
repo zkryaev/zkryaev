@@ -1,11 +1,16 @@
-<div style="display: grid; align-items: center;">
-    <a href="https://www.codewars.com/users/zkryaev">
-      <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 300px; height: 300px; object-fit: contain;" />
-    </a>
-    <a href="https://leetcode.com/u/zkryaev/">
-      <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto" style="width: 300px; height: 300px; object-fit: contain;" />
-    </a>
+<div style="text-align: center;">
+    <div style="display: inline-block; width: 200px; height: 200px; vertical-align: top;">
+        <a href="https://www.codewars.com/users/zkryaev">
+            <img src="https://github.r2v.ch/codewars?user=zkryaev&theme=gradient_by_level&hide_clan=true" style="width: 100%; height: 100%; object-fit: contain;" />
+        </a>
+    </div>
+    <div style="display: inline-block; width: 200px; height: 200px; vertical-align: top;">
+        <a href="https://leetcode.com/u/zkryaev/">
+            <img src="https://leetcard.jacoblin.cool/zkryaev?theme=dark&font=Roboto" style="width: 100%; height: 100%; object-fit: contain;" />
+        </a>
+    </div>
 </div>
+
 
 
 
